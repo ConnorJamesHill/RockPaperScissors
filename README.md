@@ -28,7 +28,7 @@ The Rock, Paper, Scissors game allows users to play against the computer in a si
 
 ## Getting Started
 
-To play the Rock, Paper, Scissors game, simply visit [https://MeruemMoniker.github.io/rock-paper-scissors](https://MeruemMoniker.github.io/rock-paper-scissors).
+To play the Rock, Paper, Scissors game, simply visit (https://connorhill-rockpaperscissors.netlify.app/).
 
 If you want to run the project locally for development or customization, follow these steps:
 
